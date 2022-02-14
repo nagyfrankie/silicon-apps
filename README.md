@@ -14,7 +14,7 @@
 
 ### Audio Utilities
 
-* [BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic/releases) - Individual app volume control [![Open-Source Software][OSS Icon]]
+* [BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic/releases) - Individual app volume control ![Open-Source Software][OSS Icon]
 * [Ocenaudio](https://www.ocenaudio.com) - Easy, fast and powerful audio editor ![Freeware][Freeware Icon]
 
 [Appstore Icon]: https://cdn.rawgit.com/nagyfranky/silicon-apps/master/media/appstore.svg
