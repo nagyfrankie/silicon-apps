@@ -34,8 +34,8 @@
 * [Forklift](https://binarynights.com) - File Manager and FTP/SFTP/WebDAV/Amazon S3 client
 
 ### Password Management
-* [Bitwarden](https://bitwarden.com) - Open source password management tool for Mac OS, iOS and browsers
-* [Dashlane](https://www.dashlane.com) - Cloud-based password manager with award-winning design. ![App Store][app-store Icon]
+* [Bitwarden](https://bitwarden.com) - Open source password management tool for Mac OS, iOS and browsers ![Open-Source Software][OSS Icon]
+* [Dashlane](https://www.dashlane.com) - Cloud-based password manager with award-winning design. ![AppStore][Appstore Icon]
 
 ### Productivity
 * [Alfred](https://www.alfredapp.com) - Search your Mac and the web, and be more productive with custom actions to control your Mac
